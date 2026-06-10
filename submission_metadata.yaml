@@ -1,0 +1,27 @@
+team_name: InsightForge AI
+
+team_leader: Aditya
+
+project_name: TalentForge AI Ranker
+
+challenge: Data & AI Challenge
+
+approach:
+
+* Semantic Candidate Matching
+* Behavioral Signal Analysis
+* Profile Consistency Verification
+* Explainable Candidate Ranking
+
+technologies:
+
+* Python
+* JSONL Processing
+* Rule-Based Ranking
+* Behavioral Signal Scoring
+
+repository: https://github.com/thisissaditya/TalentForge-AI-Ranker
+
+submission_type: Solo
+
+version: 1.0
