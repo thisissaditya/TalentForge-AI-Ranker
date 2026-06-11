@@ -135,6 +135,6 @@ The generated submission contains:
 
 ## Author
 
-Purshottam
+Purshottam Rakesh
 
 India Runs 2026 – Data & AI Challenge
